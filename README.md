@@ -1,6 +1,6 @@
 # Código Limpo - Tips
 
-## INTRODUÇÃO
+## 1. INTRODUÇÃO
 (Imagem WTF/min)
 
 - A unica forma válida de medir a qualidade do código é: " que-merda-é-essa? / minuto "
@@ -13,7 +13,7 @@
   - Como garantir uma revisão na porta certa?
     - Resposta: Habilidade Profissional
 
-## INTRODUÇÃO pt_2
+## 2. INTRODUÇÃO pt_2
 
 - Habilidades profissionais se dividem em 2 pilares:
 
@@ -40,7 +40,7 @@
 |>>>>>> ESTUDE & PRATIQUE <<<<<<|
 
 
-## Nunca é tarde para limpar
+## 3. NUNCA É TARDE PARA LIMPAR
 
   - Códigos são as especificações dos requisitos de um projeto
     - SEMPRE haverá código, devido à precisão necessária
@@ -49,5 +49,15 @@
   - Sentimento de caminhar em um lamaçal de arbustos emaranhados em armadilhas ocultas {{gif, se conseguir}}
 
 enfim...
-##### NUNCA É TARDE PRA LIMPAR O CÓDIGO
+###### NUNCA É TARDE PRA LIMPAR O CÓDIGO
+
+
+## 4. CUSTOS DE TER UM CÓDIGO CONFUSO
+
+  - Quanto mais (+) confusão, menos (-) produtividade
+  - Gestor aumenta a equipe na esperança de aumentar a produtividade
+  - Mais (+) gente, mais (+) confusão
+  - Produtividade quase zero (0)
+  
+![Produtividade X Tempo](https://trello-attachments.s3.amazonaws.com/5f610549ad7bb754cdbbf831/5f64331c142ddf68d573da73/9e82fd88f45162083ebe728111bfb0aa/image.png)
 
