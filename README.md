@@ -38,3 +38,16 @@
     Mas se não codar, não terá garantias de um código bem escrito
 
 |>>>>>> ESTUDE & PRATIQUE <<<<<<|
+
+
+## Nunca é tarde para limpar
+
+  - Códigos são as especificações dos requisitos de um projeto
+    - SEMPRE haverá código, devido à precisão necessária
+
+- Código Ruim:
+  - Sentimento de caminhar em um lamaçal de arbustos emaranhados em armadilhas ocultas {{gif, se conseguir}}
+
+enfim...
+##### NUNCA É TARDE PRA LIMPAR O CÓDIGO
+
