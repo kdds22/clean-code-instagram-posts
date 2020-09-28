@@ -13,3 +13,28 @@
   - Como garantir uma revisão na porta certa?
     - Resposta: Habilidade Profissional
 
+## INTRODUÇÃO pt_2
+
+- Habilidades profissionais se dividem em 2 pilares:
+
+  - Conhecimento
+    - Princípios
+    - Padrões
+    - Práticas
+    - Heurísticas
+
+  - Trabalho
+    - Programar
+    - Sangue no Olho
+    - Praticar
+
+- Ex.: Andar de bicicleta
+  - Você pode pegar um material com TODAS as formulas e equações matemáticas de como andar de bicicleta
+  - E ainda sim, na primeira vez que for andar, irá cair
+
+|>>> MESMA COISA ACONTECE COM O CÓDIGO <<<|
+
+    Você pode estudar e ter todo o conhecimento na ponta da lingua
+    Mas se não codar, não terá garantias de um código bem escrito
+
+|>>>>>> ESTUDE & PRATIQUE <<<<<<|
